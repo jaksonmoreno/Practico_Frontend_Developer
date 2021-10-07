@@ -7,3 +7,7 @@ Estoy haciendo commit para llevar al repositorio los avances en la construcción
 # Octubre 07 - 2021
 
 Se crearon los archivos html de, página de inicio, menú desktop, menú mobile.
+
+# Octubre 07 - 2021
+
+Se crearon los archivos html de, My order, My orders y Navbar.
